@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/livret-pa-nord/static/css/main.edb448ee.css",
+    "main.js": "/livret-pa-nord/static/js/main.7a424085.js",
+    "static/js/453.920d4b45.chunk.js": "/livret-pa-nord/static/js/453.920d4b45.chunk.js",
+    "static/media/MCD.png": "/livret-pa-nord/static/media/MCD.27034c08952c191888a3.png",
+    "static/media/logo-crime-flashback5.png": "/livret-pa-nord/static/media/logo-crime-flashback5.78f46ff583d0da5dc4de.png",
+    "static/media/Logo-Police-Academy.png": "/livret-pa-nord/static/media/Logo-Police-Academy.0a17f3a54aa84c8fe2fe.png",
+    "static/media/hp.png": "/livret-pa-nord/static/media/hp.f29d23b047f5075785ef.png",
+    "static/media/td.png": "/livret-pa-nord/static/media/td.704e979e3f82ebea2047.png",
+    "static/media/asd.png": "/livret-pa-nord/static/media/asd.2f54571932410e95e6d0.png",
+    "static/media/controle-routier.png": "/livret-pa-nord/static/media/controle-routier.5c416fd90d04c9155d5f.png",
+    "static/media/RA.png": "/livret-pa-nord/static/media/RA.69554d755b492b8510db.png",
+    "static/media/DOA.png": "/livret-pa-nord/static/media/DOA.bd248df93e598d5496ab.png",
+    "index.html": "/livret-pa-nord/index.html",
+    "main.edb448ee.css.map": "/livret-pa-nord/static/css/main.edb448ee.css.map",
+    "main.7a424085.js.map": "/livret-pa-nord/static/js/main.7a424085.js.map",
+    "453.920d4b45.chunk.js.map": "/livret-pa-nord/static/js/453.920d4b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb448ee.css",
+    "static/js/main.7a424085.js"
+  ]
+}
