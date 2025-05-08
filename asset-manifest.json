@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/livret-pa-nord/static/css/main.edb448ee.css",
-    "main.js": "/livret-pa-nord/static/js/main.4c05bc2a.js",
+    "main.css": "/livret-pa-nord/static/css/main.08b6ab18.css",
+    "main.js": "/livret-pa-nord/static/js/main.4acf5b61.js",
     "static/js/453.920d4b45.chunk.js": "/livret-pa-nord/static/js/453.920d4b45.chunk.js",
+    "static/media/etape-plainte.png": "/livret-pa-nord/static/media/etape-plainte.df8b67280156859647e3.png",
     "static/media/MCD.png": "/livret-pa-nord/static/media/MCD.27034c08952c191888a3.png",
     "static/media/logo-crime-flashback5.png": "/livret-pa-nord/static/media/logo-crime-flashback5.78f46ff583d0da5dc4de.png",
     "static/media/Logo-Police-Academy.png": "/livret-pa-nord/static/media/Logo-Police-Academy.0a17f3a54aa84c8fe2fe.png",
@@ -13,12 +14,12 @@
     "static/media/RA.png": "/livret-pa-nord/static/media/RA.69554d755b492b8510db.png",
     "static/media/DOA.png": "/livret-pa-nord/static/media/DOA.bd248df93e598d5496ab.png",
     "index.html": "/livret-pa-nord/index.html",
-    "main.edb448ee.css.map": "/livret-pa-nord/static/css/main.edb448ee.css.map",
-    "main.4c05bc2a.js.map": "/livret-pa-nord/static/js/main.4c05bc2a.js.map",
+    "main.08b6ab18.css.map": "/livret-pa-nord/static/css/main.08b6ab18.css.map",
+    "main.4acf5b61.js.map": "/livret-pa-nord/static/js/main.4acf5b61.js.map",
     "453.920d4b45.chunk.js.map": "/livret-pa-nord/static/js/453.920d4b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edb448ee.css",
-    "static/js/main.4c05bc2a.js"
+    "static/css/main.08b6ab18.css",
+    "static/js/main.4acf5b61.js"
   ]
 }
