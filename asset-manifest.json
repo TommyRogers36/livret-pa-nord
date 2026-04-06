@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/livret-pa-nord/static/css/main.08b6ab18.css",
-    "main.js": "/livret-pa-nord/static/js/main.4acf5b61.js",
+    "main.js": "/livret-pa-nord/static/js/main.a90a4ba0.js",
     "static/js/453.920d4b45.chunk.js": "/livret-pa-nord/static/js/453.920d4b45.chunk.js",
     "static/media/etape-plainte.png": "/livret-pa-nord/static/media/etape-plainte.df8b67280156859647e3.png",
     "static/media/MCD.png": "/livret-pa-nord/static/media/MCD.27034c08952c191888a3.png",
@@ -15,11 +15,11 @@
     "static/media/DOA.png": "/livret-pa-nord/static/media/DOA.bd248df93e598d5496ab.png",
     "index.html": "/livret-pa-nord/index.html",
     "main.08b6ab18.css.map": "/livret-pa-nord/static/css/main.08b6ab18.css.map",
-    "main.4acf5b61.js.map": "/livret-pa-nord/static/js/main.4acf5b61.js.map",
+    "main.a90a4ba0.js.map": "/livret-pa-nord/static/js/main.a90a4ba0.js.map",
     "453.920d4b45.chunk.js.map": "/livret-pa-nord/static/js/453.920d4b45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08b6ab18.css",
-    "static/js/main.4acf5b61.js"
+    "static/js/main.a90a4ba0.js"
   ]
 }
